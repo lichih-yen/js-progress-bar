@@ -1,6 +1,6 @@
 ## js-progress-bar
 
-The progress bar will appear on the top.
+When you scroll down, the progress bar will appear on the top.
 
-To visit it on the below sites:
+To visit it on the sites:
 https://lichih-yen.github.io/js-progress-bar/
